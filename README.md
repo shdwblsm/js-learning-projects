@@ -1,2 +1,3 @@
-# jsclock
-Make a clock for a website in javascript
+Javascript learning Projects.
+
+Various projects for learning javascript
